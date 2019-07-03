@@ -13,7 +13,7 @@ description: >-
 
 * Contributed to by [DanCodes](https://dancodes.online)
 
-### C++
+### [C++](cpp/)
 
 * Contributed to by [Orest Brykowytch](https://orestbrykowytch.github.io)
 
