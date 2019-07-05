@@ -4,6 +4,7 @@
 
 Template for lessons is [here](https://github.com/prolang-tutorials/.js/tree/master/jQuery/Template)
 
+* [Intro](intro.md)
 * [Elements](elements.md)
 * [Animations](animations.md)
 
