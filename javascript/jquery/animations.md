@@ -6,10 +6,10 @@ Animations in jQuery are quite easy to work with and make development incredibly
 
 The main animation function of jQuery has 4 parts and I have divided this lesson into those parts. These parts are:
 
-* [Element](animations.md#element)
-* [Parameters](animations.md#parameters)
-* [Speed](animations.md#speed)
-* [Callback](animations.md#callback)
+- [Element](animations.md#element)
+- [Parameters](animations.md#parameters)
+- [Speed](animations.md#speed)
+- [Callback](animations.md#callback)
 
 ## **Element**
 
@@ -27,9 +27,9 @@ The parameters are the most important part of the animate function. An object is
 
 ```javascript
 $("#demo").animate({
-    right: "100px",
-    height: "20px",
-    marginLeft: "10%"
+  right: "100px",
+  height: "20px",
+  marginLeft: "10%"
 });
 ```
 
@@ -40,16 +40,22 @@ It is important to remember as demonstrated that css styles with a dash are conv
 The speed in jQuery can be used two different ways. The first way is to specify the time in MS, so one second would be 1000. Another way is to use the predefined "fast" or "slow". The speed is how long it will animate for and slow down/speed up to compensate for the time frame. Here is an example of a slow and 1 second animation:
 
 ```javascript
-$("#demo").animate({
+$("#demo").animate(
+  {
     right: "100px",
     height: "20px",
-    marginLeft: '10%'
-}, 1000); // 1000 being 1000 milliseconds or 1 second
-$("#demo").animate({
+    marginLeft: "10%"
+  },
+  1000
+); // 1000 being 1000 milliseconds or 1 second
+$("#demo").animate(
+  {
     right: "100px",
     height: "20px",
-    marginLeft: '10%'
-}, "slow");
+    marginLeft: "10%"
+  },
+  "slow"
+);
 ```
 
 ## Callback
@@ -57,13 +63,17 @@ $("#demo").animate({
 As in most cases of jQuery there is a callback to the animation that fires once the animation has finished or completed. For example:
 
 ```javascript
-$("#demo").animate({
+$("#demo").animate(
+  {
     right: "100px",
     height: "20px",
-    marginLeft: '10%'
-}, "slow", function() {
-    console.log("Animation finished!")
-});
+    marginLeft: "10%"
+  },
+  "slow",
+  function() {
+    console.log("Animation finished!");
+  }
+);
 ```
 
 ## Other
@@ -71,16 +81,19 @@ $("#demo").animate({
 There are many other animation functions that I have demonstrated below that can also be used:
 
 ```javascript
-//Hide/Show
+// Hide/Show
 $("#demo").hide("slow");
 $("#demo").show("fast");
 
-//Fading
+// Fading
 $("#demo").fadeOut("slow");
 $("#demo").fadeIn("fast");
 
-//Sliding
+// Sliding
 $("#demo").slideUp("slow");
 $("#demo").slideDown("fast");
 ```
 
+## Conclusion
+
+jQuery is very versatile when it comes to animating html objects and is by far the easiest way to add movement to a page using simple commands.
