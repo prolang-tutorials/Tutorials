@@ -9,6 +9,7 @@
 
 - A basic knowledge of code syntax and formatting
 - Previous experience with Vanilla JavaScript
+- Some knowledge in html+css
 
 ## About
 
