@@ -4,6 +4,7 @@
 
 - [Animations](animations.md)
 - [Elements](elements.md)
+- [Ajax](ajax.md)
 
 ## Recommended Prerequisites
 
