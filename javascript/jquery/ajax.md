@@ -10,7 +10,7 @@ It provides several methods for smooth ajax calls.
 Syntax:
 
 ```js
-$.get(URL,callback)
+$.get(URL, callback)
 ```
 
 A real-world example:
