@@ -28,3 +28,4 @@ jQuery's syntax is designed to make it easier to navigate a document, select DOM
 ## Contributors
 
 - [DanCodes](https://dancodes.online) [dan@dancodes.online](mailto:dan@dancodes.online)
+- [Divy](https://divy.work) [dj.srivastava23@gmail.com](mailto:dj.srivastava23@gmail.com)

@@ -11,7 +11,10 @@ description: >-
 
 ### [JavaScript](javascript/)
 
-* Contributed to by [DanCodes](https://dancodes.online)
+Contributed to by -
+
+* [DanCodes](https://dancodes.online)
+* [Divy](https://divy.work)
 
 ### [C++](cpp/)
 
