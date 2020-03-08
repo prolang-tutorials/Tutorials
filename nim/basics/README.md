@@ -3,6 +3,7 @@
 ## Lessons
 
 - [Hello, World!](hello.md)
+- [Variables](variables.md)
 
 ## Recommended Prerequisites
 
