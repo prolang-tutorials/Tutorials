@@ -1,1 +1,1 @@
-## Hello world example in Nim
+## Hello World in Nim
