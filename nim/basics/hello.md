@@ -18,4 +18,5 @@ Note: you can statically define varibale type using the `:` token
 nim c hello.nim
 ```
 This will create an executable `hello` in the current directory.
+
 Now, you can simple type `./hello` to run it.
