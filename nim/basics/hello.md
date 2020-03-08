@@ -5,8 +5,12 @@ echo "Hello, World!"
 ```
 Isn't it easy?
 
-Now see this
 ```nim
 var input:string = readline(stdin)
 echo input
+```
+## Running the code
+
+```bash
+nim c hello.nim
 ```
