@@ -16,4 +16,8 @@ It also excepts arguments and return type too!
 proc ask(msg: string): bool =
   if msg == "I love Nim": return true
   else: return false
+
+echo ask("I love Nim") # return true
 ```
+
+Procedures are main components of any application, these will help you write your dream code ;)
