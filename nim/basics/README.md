@@ -4,6 +4,7 @@
 
 - [Hello, World!](hello.md)
 - [Variables](variables.md)
+- [Comments](comments.md)
 
 ## Recommended Prerequisites
 
