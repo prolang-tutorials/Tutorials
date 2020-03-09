@@ -9,3 +9,14 @@ if name == "":
 else:
   echo "Hello, ", name
 ```
+
+### case statement
+
+```nim
+var name = readline(stdin)
+case name:
+  of "":
+    echo "whut?"
+  of "name":
+    echo "very funny -_-"
+```
