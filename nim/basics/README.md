@@ -6,7 +6,7 @@
 - [Variables](variables.md)
 - [Comments](comments.md)
 - [Conditions](conditions.md)
-- [Procedures](procedures.md)
+- [Procedures](procedure.md)
 
 ## Recommended Prerequisites
 
