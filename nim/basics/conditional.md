@@ -20,3 +20,14 @@ case name:
   of "name":
     echo "very funny -_-"
 ```
+
+### while statement
+
+```nim
+echo "What's you name dude?"
+var name = readline(stdin)
+
+while name == "":
+  echo "Give me a name man!"
+  name = readline(stdin) # no var token needed.
+```
