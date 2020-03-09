@@ -31,3 +31,11 @@ while name == "":
   echo "Give me a name man!"
   name = readline(stdin) # no var token needed.
 ```
+
+### for statement
+
+```nim
+var people:seq[string] = @["me", "you", "him", "her", "them"]
+for someone in people:
+  echo "This is ", someone
+```
