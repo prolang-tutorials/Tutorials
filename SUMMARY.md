@@ -8,3 +8,12 @@
     - [Animations](javascript/jquery/animations.md)
 - [C++](cpp/README.md)
   - [Basics](cpp/basics.md)
+
+- [Nim](nim/README.md)
+  - [Basics](nim/basics/README.md)
+    - [Hello, World!](hello.md)
+    - [Variables](variables.md)
+    - [Comments](comments.md)
+    - [Conditions](conditions.md)
+    - [Procedures](procedure.md)
+    - [Objects](obj.md)
