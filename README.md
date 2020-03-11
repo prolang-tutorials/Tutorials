@@ -17,6 +17,10 @@ description: >-
 
 * Contributed to by [Orest Brykowytch](https://orestbrykowytch.github.io)
 
+### Nim
+
+* Contributed to by [Divy](https://github.com/divy-work)
+
 ### Java
 
 * Contributed to by [LightenedLimited](https://github.com/LightenedLimited)
